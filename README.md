@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👨🏼‍💻 About Me
 
-<!--
-**InsightLaboratory/InsightLaboratory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a software developer specializing in geospatial platforms, focused on building real-world systems for mineral exploration.
 
-Here are some ideas to get you started:
+🌍 I design and develop full-stack geospatial solutions, integrating spatial databases (**PostgreSQL + PostGIS**), APIs (**FastAPI**), and interactive web maps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 My work is centered on structuring and querying exploration data (drillholes, assays, geology) and transforming it into usable, production-ready tools.
+
+⚙️ Currently building a geospatial platform that connects backend data processing with frontend visualization in a complete workflow.
+
+🚀 I'm actively transitioning into professional software development, with a strong focus on backend and geospatial engineering.
+
+📧 Feel free to reach out for collaborations or opportunities:
+juan.manuel.torres@mi.unc.edu.ar
+
+---
+
+
+## 🤝🏻 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/juanmtorres23/
+
+---
+
+## 🔗 My Work
+
+* 🌍 Geospatial Platform (Live):
+https://geo-platform-cyan.vercel.app/ 
+
+* 📦 Repository:
+  https://github.com/InsightLaboratory/Geo_Platform
