@@ -1,4 +1,6 @@
-## 👨🏼‍💻 About Me
+## # 🌍 Geospatial Software Developer
+
+👨🏼‍💻 About Me
 
 💻 I'm a software developer specializing in geospatial platforms, focused on building real-world systems for mineral exploration.
 
