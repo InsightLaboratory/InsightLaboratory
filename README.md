@@ -22,12 +22,3 @@ juan.manuel.torres@mi.unc.edu.ar
 
 * 💼 LinkedIn: https://www.linkedin.com/in/juanmtorres23/
 
----
-
-## 🔗 My Work
-
-* 🌍 Geospatial Platform (Live):
-https://geo-platform-cyan.vercel.app/ 
-
-* 📦 Repository:
-  https://github.com/InsightLaboratory/Geo_Platform
